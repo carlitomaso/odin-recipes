@@ -5,7 +5,9 @@
 body {
     background-color: azure;
     /* padding: 30px 40px; */
-    margin: 30px 50px;
+    margin: 30px auto;
+    width: 100%;
+    max-width: 60%;
 }
 
 a {
